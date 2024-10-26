@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "product_name": "Smartphone",
+    "description": "Latest model smartphone with advanced camera features and a powerful processor.",
+    "brand": "Apple"
+  },
+  {
+    "id": 2,
+    "product_name": "Smartphone",
+    "description": "Flagship smartphone with fast charging and a high refresh rate display.",
+    "brand": "Samsung"
+  },
+  {
+    "id": 3,
+    "product_name": "Smartphone",
+    "description": "5G-enabled smartphone with a large screen and high-resolution camera.",
+    "brand": "OnePlus"
+  },
+  {
+    "id": 4,
+    "product_name": "Laptop",
+    "description": "Lightweight laptop with a 15-inch display, fast performance, and extended battery.",
+    "brand": "Dell"
+  },
+  {
+    "id": 5,
+    "product_name": "Tablet",
+    "description": "Professional tablet with stylus support and stunning Retina display.",
+    "brand": "Apple"
+  },
+  {
+    "id": 6,
+    "product_name": "Smartwatch",
+    "description": "Advanced fitness tracking smartwatch with ECG monitoring and GPS.",
+    "brand": "Garmin"
+  },
+  {
+    "id": 7,
+    "product_name": "Laptop",
+    "description": "Premium ultrabook with touchscreen and dedicated graphics card.",
+    "brand": "HP"
+  },
+  {
+    "id": 8,
+    "product_name": "Headphones",
+    "description": "Noise-cancelling wireless headphones with premium audio quality.",
+    "brand": "Sony"
+  },
+  {
+    "id": 9,
+    "product_name": "Gaming Console",
+    "description": "Next-gen gaming console with 4K graphics and ray tracing support.",
+    "brand": "Microsoft"
+  },
+  {
+    "id": 10,
+    "product_name": "Smart TV",
+    "description": "65-inch 4K OLED TV with smart features and gaming mode.",
+    "brand": "LG"
+  }
+]
